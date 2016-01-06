@@ -1,0 +1,2 @@
+# BitcoinMiningProject
+README
